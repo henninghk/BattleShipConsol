@@ -1,0 +1,7 @@
+C:\Users\henni\Downloads\BattleShip-master\BattleShipGame\bin\Debug\BattleShipGame.exe.config
+C:\Users\henni\Downloads\BattleShip-master\BattleShipGame\bin\Debug\BattleShipGame.exe
+C:\Users\henni\Downloads\BattleShip-master\BattleShipGame\bin\Debug\BattleShipGame.pdb
+C:\Users\henni\Downloads\BattleShip-master\BattleShipGame\obj\Debug\BattleShipGame.csprojAssemblyReference.cache
+C:\Users\henni\Downloads\BattleShip-master\BattleShipGame\obj\Debug\BattleShipGame.csproj.CoreCompileInputs.cache
+C:\Users\henni\Downloads\BattleShip-master\BattleShipGame\obj\Debug\BattleShipGame.exe
+C:\Users\henni\Downloads\BattleShip-master\BattleShipGame\obj\Debug\BattleShipGame.pdb
